@@ -2,9 +2,9 @@
 
 > - 📫 How to reach me: https://linktr.ee/rep.estacio
 
- <div>
+<div>
   <a href="https://github.com/macielmarques">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macielmarques&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macielmarques&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 ## Tecnologias:
