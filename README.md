@@ -1,6 +1,6 @@
 ### Olá, tudo bem! Me chamo, Maciel!👋
 
-> - 📫 How to reach me: https://link.ee/rep.estacio
+> - 📫 How to reach me: https://linktr.ee/rep.estacio
 
 ![Maciel GitHub stats](https://github-readme-stats.vercel.app/api?username=macielmarques&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macielmarques&layout=compact&langs_count=7&theme=highcontrast)](https://github.com/macielmarques/github-readme-stats)
