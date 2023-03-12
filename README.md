@@ -15,8 +15,6 @@
   <img align="center" alt="Maciel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maciel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Maciel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
 ##
@@ -30,4 +28,4 @@
 ## eBook: 
 - [PHP Programando com Orientação a Objetos - 4ª Edição: Programando com Orientação a Objetos](https://www.amazon.com.br/dp/8575226916/ref=tsm_1_fb_lk)<br/>
   
-  ![Snake animation](https://github.com/macielmarques/blob/output/github-contribution-grid-snake.svg)
+
