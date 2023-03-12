@@ -2,13 +2,11 @@
 
 > - 📫 How to reach me: https://linktr.ee/rep.estacio
 
-![Maciel GitHub stats](https://github-readme-stats.vercel.app/api?username=macielmarques&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macielmarques&layout=compact&langs_count=7&theme=highcontrast)](https://github.com/macielmarques/github-readme-stats)
+![Maciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacielMarques&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <div>
   <a href="https://github.com/macielmarques">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielmarques&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macielmarques&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 ## Tecnologias:
