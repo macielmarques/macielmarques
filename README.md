@@ -1,9 +1,15 @@
 ### Olá, tudo bem! Me chamo, Maciel!👋
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZlyLr-B9MgtPw4zNo1Sdsg)
-[![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rep.estacio/)
+> - 📫 How to reach me: https://link.ee/rep.estacio
 
 ![Maciel GitHub stats](https://github-readme-stats.vercel.app/api?username=macielmarques&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macielmarques&layout=compact&langs_count=7&theme=highcontrast)](https://github.com/macielmarques/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <div>
+  <a href="https://github.com/macielmarques">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielmarques&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
 
 ## Tecnologias:
 
