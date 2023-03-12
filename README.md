@@ -2,8 +2,6 @@
 
 > - 📫 How to reach me: https://linktr.ee/rep.estacio
 
-![Maciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacielMarques&show_icons=true&theme=tokyonight)
-
  <div>
   <a href="https://github.com/macielmarques">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macielmarques&layout=compact&langs_count=7&theme=highcontrast"/>
